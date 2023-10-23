@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Evolve Esports
+description: Game Tournament Organiser
+img: assets/img/projects/evolve-esports.webp
+redirect: https://evolve-esports.hariaakash.com/home
+github: https://github.com/hariaakash/Evolve-Esports/
+importance: 6
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+title: Tigers vs Goats
+description: Age old classic multiplayer board game
+img: assets/img/projects/tigers-vs-goats.webp
+redirect: https://tigers-vs-goats.hariaakash.com/
+github: https://github.com/hariaakash/tigers-vs-goats/
+importance: 4
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.

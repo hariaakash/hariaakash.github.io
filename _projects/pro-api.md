@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: ProApi
+description: API Manager
+img: assets/img/projects/pro-api.webp
+redirect: https://hariaakash.com/ProApi/public/
+github: https://github.com/hariaakash/ProApi/
 importance: 3
 category: work
 ---

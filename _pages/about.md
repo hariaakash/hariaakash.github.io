@@ -20,3 +20,15 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Greetings! I'm Hari, though you may know me by various online aliases such as Harinarayanan Sankaranarayan, Hari Aakash, yourcodechef, or hariaakash. I'm currently residing in London, England, where I'm pursuing a Master's degree in Computer Science at Queen Mary University of London. My primary areas of interest encompass devops, backend development, geopolitics, and startups.
+
+
+## Open Source Contributions
+
+{% if site.data.repositories.github_repos %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for repo in site.data.repositories.github_repos %}
+    {% include repository/repo.html repository=repo %}
+  {% endfor %}
+</div>
+{% endif %}
+

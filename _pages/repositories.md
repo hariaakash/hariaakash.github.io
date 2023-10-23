@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repos
 description: Below are few of my open-source contributions.
-nav: true
+nav: false
 nav_order: 3
 ---
 
