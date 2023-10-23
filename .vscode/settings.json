@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "Aakash",
+        "endcase",
+        "endfor",
+        "endunless",
+        "Hari",
+        "hariaakash",
+        "Harinarayanan",
+        "jsonresume",
+        "Optimus",
+        "Sankaranarayan",
+        "swea",
+        "webp",
+        "yourcodechef"
+    ],
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-workflow.json": "file:///Users/hari/projects/hariaakash.github.io/.github/workflows/deploy.yml"
+    }
+}
