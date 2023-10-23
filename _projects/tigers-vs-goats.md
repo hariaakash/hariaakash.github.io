@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tigers vs Goats
-description: Age old classic multiplayer board game
+description: Classic board game
 img: assets/img/projects/tigers-vs-goats.webp
 redirect: https://tigers-vs-goats.hariaakash.com/
 github: https://github.com/hariaakash/tigers-vs-goats/
