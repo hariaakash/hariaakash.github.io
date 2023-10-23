@@ -19,4 +19,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Hari, though you will often find me as Harinarayanan Sankaranarayan / Hari Aakash / yourcodechef / hariaakash. I currently live in London, England and am pursuing Masters in Computer Science at Queen Mary University of London. I'm generally interested in devops, backend development, geopolitics and startups.
+Greetings! I'm Hari, though you may know me by various online aliases such as Harinarayanan Sankaranarayan, Hari Aakash, yourcodechef, or hariaakash. I'm currently residing in London, England, where I'm pursuing a Master's degree in Computer Science at Queen Mary University of London. My primary areas of interest encompass devops, backend development, geopolitics, and startups.
