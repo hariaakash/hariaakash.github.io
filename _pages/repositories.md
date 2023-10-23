@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Opensource contributions.
+title: repos
+description: Below are few of my open-source contributions.
 nav: true
 nav_order: 3
 ---
