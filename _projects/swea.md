@@ -2,7 +2,7 @@
 layout: page
 title: SWEA
 description: Community at SRM
-img: https://placehold.co/500x240/ff746e/000?text=SWEA
+img: https://placehold.co/500x240/ffbec4/000?text=SWEA
 redirect: https://hariaakash.com/swea/
 github: https://github.com/hariaakash/swea/
 importance: 2

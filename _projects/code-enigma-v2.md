@@ -2,7 +2,7 @@
 layout: page
 title: Code Enigma v2
 description: Tech Hackathon at SRM
-img: https://placehold.co/500x240/bdbaff/000?text=CODE ENIGMA\nv2
+img: https://placehold.co/500x240/9eff94/000?text=CODE ENIGMA\nv2
 redirect: https://hariaakash.com/SWEA-HACKATHON-old/
 github: https://github.com/hariaakash/SWEA-HACKATHON-old/
 importance: 6
