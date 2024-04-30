@@ -11,7 +11,8 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Harinarayanan Sankaranarayan's Homepage
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
-cv_pdf: https://drive.google.com/file/d/1_W_vL48DAiW4MruQraIu_WQaPQVW3P-N/view?usp=sharing
+cv_pdf: https://drive.google.com/file/d/1q1hJ0DcuTUM4k2G1CiRrgTt0xj8Oh1nV/view?usp=sharing
+
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
